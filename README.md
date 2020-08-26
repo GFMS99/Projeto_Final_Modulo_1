@@ -1,3 +1,5 @@
 # Projeto_Final_Modulo_1
 
-Esse é o código feito por mim como projeto final para o módulo de java do curso de desenvolvimento de software da Step Computer Academy!
+Código + história base do projeto de java iniciante.
+
+O "jogador" deve escolher entre um caminho ou outro para seguir sua história dependendo da ação do jogador pode morrer, matar monstros, fugir ou ganhar aliados.
